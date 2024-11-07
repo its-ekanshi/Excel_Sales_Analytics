@@ -1,4 +1,4 @@
-# Vrinda_Store_Annual_Report_2023
+# Vrinda_Store_Data_Analysis
 <h2>Project Objective</h2>
 <h3></h3>Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.</h3>
 <h2>Sample Questions</h2>
