@@ -14,7 +14,6 @@ This project analyzes **sales data** using **Microsoft Excel** to identify key t
 ✔️ Identified top-performing products and regions driving sales  
 ✔️ Analyzed seasonal trends and revenue fluctuations  
 ✔️ Calculated profit margins and customer purchase behavior  
-✔️ Created interactive dashboards for better decision-making  
 
 ---
 
